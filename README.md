@@ -40,5 +40,5 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Example Input
 
-- Video URL: `[https://www.example.com/video](https://www.instagram.com/reel/C6UMCIIvHHd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)`
+- Video URL: `https://www.instagram.com/reel/C6UMCIIvHHd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==`
 - File Name (without extension): `kucing_nyanyi`
