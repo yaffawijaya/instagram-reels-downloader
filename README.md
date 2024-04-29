@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed on your system:
 
 3. **Modify the Script (Optional)**: If needed, open the `app.js` file and adjust the script according to your requirements. You can customize the file naming, output directory, etc.
 
-4. **Run the Script**: In your terminal or command prompt, navigate to the directory containing the `download_video.js` file, and execute the following command:
+4. **Run the Script**: In your terminal or command prompt, navigate to the directory containing the `app.js` file, and execute the following command:
 
     ```bash
     $ node app.js
