@@ -1,6 +1,5 @@
 # How to Run JavaScript File with Node.js
-
-This guide will help you execute the provided JavaScript file (`app.js`) using Node.js. The script allows you to download videos from a specified URL.
+This project inspired by [@malvin.val](https://www.instagram.com/malvin.val/). This guide will help you execute the provided JavaScript file (`app.js`) using Node.js. The script allows you to download videos from a specified URL.
 
 ## Prerequisites
 
